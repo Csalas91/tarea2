@@ -1,0 +1,7 @@
+C:\Users\Cesar Salas\source\repos\tarea2\bin\Debug\tarea2.exe.config
+C:\Users\Cesar Salas\source\repos\tarea2\bin\Debug\tarea2.exe
+C:\Users\Cesar Salas\source\repos\tarea2\bin\Debug\tarea2.pdb
+C:\Users\Cesar Salas\source\repos\tarea2\obj\Debug\tarea2.csproj.AssemblyReference.cache
+C:\Users\Cesar Salas\source\repos\tarea2\obj\Debug\tarea2.csproj.CoreCompileInputs.cache
+C:\Users\Cesar Salas\source\repos\tarea2\obj\Debug\tarea2.exe
+C:\Users\Cesar Salas\source\repos\tarea2\obj\Debug\tarea2.pdb
